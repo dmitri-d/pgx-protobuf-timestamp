@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/jackc/pgx/v5"
-	"github.com/manniwood/pgx-protobuf-timestamp/pgxpbts"
+	"github.com/dmitri-d/pgx-protobuf-timestamp/pgxpbts"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 

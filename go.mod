@@ -1,4 +1,4 @@
-module github.com/manniwood/pgx-protobuf-timestamp
+module github.com/dmitri-d/pgx-protobuf-timestamp
 
 go 1.21.3
 
